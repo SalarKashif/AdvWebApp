@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ed18d85b-54b9-43a4-80b6-e2a0dd38d0d7/resourceGroups/Salar_Kashif_Group/providers/Microsoft.Web/sites/SalarKashif",
+    "appService.deploySubpath": "myExpressApp"
+}
